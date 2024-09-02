@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ananyalahiri2003
-- 👀 I’m working as an applied scientist with Onfido
+- 👀 I’m working as an applied scientist
 - 🌱 I’m currently applying deep learning to computer vision problems 
 - 💞️ 
 - 📫 Reach me on ananyalahiri2003@yahoo.co.uk
